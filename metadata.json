@@ -1,0 +1,6 @@
+{
+  "name": "FollowUp AI",
+  "description": "WhatsApp CRM for Local Businesses featuring AI-powered replies, smart leads management, status pipelines, and actionable performance dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
